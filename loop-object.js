@@ -30,3 +30,6 @@ const entries = Object.entries(bottle);
 for (const [key, value] of Object.entries(bottle)) {
     console.log(key, value);
 }
+
+//
+const arr = ['color', 'jeans', 'tom']
