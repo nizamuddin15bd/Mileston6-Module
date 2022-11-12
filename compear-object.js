@@ -1,4 +1,4 @@
-const first = { a: 1, b: 2 };
+const first = { a: 1, b: 2 };  //dak akoi rokom lage but keys change change
 const second = { a: 1, b: 2 };
 const third = first;
 if (first === third) {
